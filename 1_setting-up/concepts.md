@@ -7,7 +7,7 @@ The traditional intro composition classroom often makes assumptions about the re
 
 > Clearly, our notions of literacy continue to migrate with new contexts and new technologies, and as teachers of writing within ever-expanding technologies we must find ways to negotiate the ideological, political, and culturally situated realities of literacy (see Heath 1983; Street 1984; Fishman 1988; Scribner and Cole 1999; Wysocki and Johnson-Eilola 1999; Brandt 2001; Gee 2003; Delpit 2004). Furthermore, we need to find ways of articulate- ing within our pedagogies the ways that tools mediate literacies (Cushman 1998; Grabill 1998, 2003a, 2003b; Selber 2004). A starting place for such pedagogical negotiations is in the lives and realities of the students who enter our classrooms. In order to understand the impact technologies have on writing, we need to understand the impact converging technologies have had on students’ daily lives.
 
-> — from "Teaching Digital Rhetoric: Community, Critical Engagement, and Application" by the DigiRhet.org collective
+> — from "Teaching Digital Rhetoric: Community, Critical Engagement, and Application" by the [DigiRhet.org collective](http://www.digitalwriting.org/digirhet/)
 
 ### Matching student reality 
 
