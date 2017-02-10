@@ -9,4 +9,4 @@ Group 2: Wednesdays from 10:30–11:30, February 22, March 15, April 5, May 3
 [Session 1: Setting Up Your Technology-Assisted Classroom](1_setting-up/overview.md)  
 [Session 2: Best Strategies for Online Discussion, Annotation, and Collaborative Work]()  
 [Session 3: QWriting for Digital Assignments and Assessment]()  
-[Session 4: Ethics and the Technology-Assisted Classroom}()  
+[Session 4: Ethics and the Technology-Assisted Classroom]()  

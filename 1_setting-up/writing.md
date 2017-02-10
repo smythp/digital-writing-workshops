@@ -1,4 +1,4 @@
-## What is digital writing pedagogy?
+## Why digital writing pedagogy?
 
 As teachers of composition and rhetoric, we're concerned not only with our students' formal writing ability, but also their capacity to think critically and argue persuasively. Increasingly, however, our students are already fighting on a number of rhetorical fronts, engagements that play out on platforms such as Facebook, Twitter, Snapchat, MMS, blogs, wikis, and search.
 

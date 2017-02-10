@@ -4,8 +4,8 @@ This workshop introduces participants to the technology-assisted classroom, an e
 
 [Why digital writing?](writing.md)  
 [Digital Writing Pedagogy concepts](concepts.md)  
-[What is WordPress?]()  
-[Introducing QWriting]()  
+[What is WordPress?](wordpress.md)  
+[Introducing QWriting](qwriting.md)  
 [WordPress fundamentals]()  
 [Setting up a course blog]()  
 [Other tools overview]()  
