@@ -1,6 +1,6 @@
 ## Digital Writing Pedagogy concepts
 
-### Multiliteracy
+## Multiliteracy
 
 The traditional intro composition classroom often makes assumptions about the resources and technical knowledge of students. Frequently, students are assumed to have access to the proprietary Microsoft Office suite and can potentially be marked down for papers not formatted in that software. Many approaches also assume that students have consistent access to a desktop computer and have knowledge of a relevant OS. These assumptions are not always correct, and are increasingly less reliable in an era of mobile computing. Digital writing pedagogy attempts to engage with multiple forms of literacy, including technological and computational literacy. By thinking deliberately about the use platforms, writing instructors can become more conscious of how students writing develops under physical, cognitive, and economic constraints.
 
@@ -8,15 +8,15 @@ The traditional intro composition classroom often makes assumptions about the re
 
 > — from "Teaching Digital Rhetoric: Community, Critical Engagement, and Application" by the [DigiRhet.org collective](http://www.digitalwriting.org/digirhet/)
 
-### Matching student reality 
+## Matching student reality 
 
 [As Jennifer Ahern-Dodson observes](https://sites.duke.edu/lamptwp/2014/09/28/345/), a critical component of digital writing pedagogy is that it acknowledges the realities of modern writing, reading, and research practices. We cannot prevent our students from starting their research on Google and Wikipedia. We can, however, teach the proper use of these tools and show how they can work in concert with scholarly databases, citation managers, and print resources. In the same vein, recognizing the (often very different) reading and writing practices of our students can serve as an occasion to critically examine our own accepted writing and publishing practices, many of which are also problematic.
 
-### Career preparation
+## Career preparation
 
 Career preparation is not the goal of a liberal arts education, and it can be dangerous to narrowly consider composition courses only in this light. With that said, digital writing pedagogy can help students to develop skills that are useful in other contexts. WordPress, the blogging software on which QWriting is built, is used on over 27% of sites on the internet, and familiarity with it is becoming a prerequisite for many jobs, espeically those involving writing and editing. A favorable web presence in the form of a [public-facing portfolio](http://www.chronicle.com/blogs/profhacker/electronic-portfolios-for-student-learning/31434) can also be an effective asset to a student during a job search or graduate school application.
 
-### Accountability
+## Accountability
 
 Quizzes are a time-tested means to encourage students to complete required reading. [Derek Bruff](http://www.chronicle.com/blogs/profhacker/getting-students-to-do-the-reading-pre-class-quizzes-on-wordpress/23066) notes that low-stakes writing on a course blog or in a discussion forum can provide an impetus for students to engage with course material in a way that is visible and easy to manage.
 
