@@ -1,4 +1,3 @@
-
 ## Digital Writing Pedagogy concepts
 
 ### Multiliteracy
@@ -21,20 +20,6 @@ Career preparation is not the goal of a liberal arts education, and it can be da
 
 Quizzes are a time-tested means to encourage students to complete required reading. [Derek Bruff](http://www.chronicle.com/blogs/profhacker/getting-students-to-do-the-reading-pre-class-quizzes-on-wordpress/23066) notes that low-stakes writing on a course blog or in a discussion forum can provide an impetus for students to engage with course material in a way that is visible and easy to manage.
 
+## Collaboration
 
-public-facing classroom
-
-students as co-creators
-research as collaboration
-career preparation: skills and portfolios
-accountability file:///home/patrick/.zotero/zotero/6ff1j25f.default/zotero/storage/4GB2JVKT/23066.html
-accessibility
-multiliteracy http://tccl.rit.albany.edu/knilt/images/9/99/GRABILL,_HICKS.pdf
-collaboration file:///home/patrick/.zotero/zotero/6ff1j25f.default/zotero/storage/QKS72J3B/33009.html
-
-
-
-accessibility
-http://www.chronicle.com/blogs/profhacker/accessibility-and-the-digital-humanities/42782
-
-
+Collaboration among students [has been shown to [increase](http://blog.reyjunco.com/pdf/JuncoElavskyHeibergerTwitterCollaboration.pdf) and [improved learning outcomes](http://images.pearsonassessments.com/images/tmrs/Collaboration-Review.pdf). Collaborative writing projects, whether creating ebooks, wikis, course blogs, or portfolios, also tends to produce tangible results that mirror how creative work is often produced outside the academy. Assignments that require students to become co-creators can also persuade students of the relevance of course material, leading to more concrete writing and less reliance on teacher-friendly formulas.
