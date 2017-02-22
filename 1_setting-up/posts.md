@@ -1,3 +1,5 @@
+[<<< Previous](fundamentals.md) | [Next >>>](pages.md)
+
 # Creating a New Post
 
 1. Make sure you're [logged into Qwriting](http://qcvoices.qwriting.qc.cuny.edu/wp-login.php?redirect_to=http%3A%2F%2Fqcvoices.qwriting.qc.cuny.edu%2F).
@@ -9,3 +11,5 @@
 7. Add a `Featured Image` to the post by clicking the `Featured Image` button on the far bottom right of the page. See optional adding photos step above for details on uploading photos. 
 9. Once you're done writing and editing, click the `Preview` button on the right under the `Publish` heading. This will take you to a page that shows you how your post will appear. ![screenshot of preview button](preview-post.jpg)
 10. Finally, click `Publish` (the blue button on the right) once you're ready for your post to go live. ![photo of publish button](publish.jpg)
+
+[<<< Previous](fundamentals.md) | [Next >>>](pages.md)

@@ -1,3 +1,5 @@
+[<<< Previous](pages.md)
+
 ### Adding Users
 
 For a course blog, you will need to add your students as users before they can access the dashboard to create new posts.
@@ -10,3 +12,5 @@ For a course blog, you will need to add your students as users before they can a
 6. Click the blue `Add Existing User` button below the input field.
 
 After the page refreshes, you should see a short message saying that the user has been added successfully. If you receive a message saying that the user does not exist, reach out to the student to make sure that they created their QWriting account and confirmed their email address.
+
+[<<< Previous](pages.md)

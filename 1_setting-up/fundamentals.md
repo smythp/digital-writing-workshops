@@ -1,3 +1,5 @@
+[<<< Previous](qwriting.md) | [Next >>>](posts.md)
+
 ## WordPress fundamentals
 
 ### Logging In
@@ -57,3 +59,5 @@ In some courses, it makes sense to make all students into authors and allow them
 
 
 
+
+[<<< Previous](qwriting.md) | [Next >>>](posts.md)

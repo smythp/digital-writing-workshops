@@ -1,3 +1,5 @@
+[<<< Previous](concepts.md) | [Next >>>](qwriting.md)
+
 # What is WordPress?
 
 WordPress is software that runs on a server—a remote computer that is connected to the internet all the time. WordPress was originally designed to allow users to easily set up a personal blog, and provided a user-friendly way to add content as well as edit the design of the site. These days, WordPress is used as a content management system (CMS) for many kinds of sites, not just blogs.
@@ -9,7 +11,6 @@ There are two main ways to use WordPress: via self-hosting or through wordpress.
 
 There are a number of reasons to incorporate a WordPress site into your course pedagogy.
 
-
 1. A course blog is a convenient location for low-stakes writing assignments, and allows students to deploy rich media (such as photos and video) in support of their arguments.
 4. WordPress has a user interface that many students (and professors) consider to be more intuitive than proprietary LMS such as Blackboard.
 5. WordPress provides an accessible location for sharing course information, syllabae, readings, rubrucs, and assignments.
@@ -17,3 +18,5 @@ There are a number of reasons to incorporate a WordPress site into your course p
 3. WordPress is a standard tool in industry and the academy. Knowing WordPress is a useful job skill, and knowledge of WordPress allows students to create sites for their own blogs, projects, portfolios, and organizations.
 2. WordPress allows for tagging and categorization of posts, which can uncover connections between the writing and observations of individual students.
 5. WordPress plugins can enable unusual pedagogical approaches, including immersive writing experiences such as [Ivanhoe](http://ivanhoe.scholarslab.org/).
+
+[<<< Previous](concepts.md) | [Next >>>](qwriting.md)
