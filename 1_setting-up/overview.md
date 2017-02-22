@@ -8,4 +8,5 @@ This workshop introduces participants to the technology-assisted classroom, an e
 [Introducing QWriting](qwriting.md)  
 [WordPress fundamentals](fundamentals.md)  
 [Creating a post](posts.md)  
-[Other tools overview]()  
+[Adding pages](pages.md)  
+[Adding users](users.md)  
