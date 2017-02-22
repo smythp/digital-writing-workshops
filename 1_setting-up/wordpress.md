@@ -1,6 +1,6 @@
 [<<< Previous](concepts.md) | [Next >>>](qwriting.md)
 
-# What is WordPress?
+## What is WordPress?
 
 WordPress is software that runs on a server—a remote computer that is connected to the internet all the time. WordPress was originally designed to allow users to easily set up a personal blog, and provided a user-friendly way to add content as well as edit the design of the site. These days, WordPress is used as a content management system (CMS) for many kinds of sites, not just blogs.
 

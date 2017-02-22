@@ -1,6 +1,6 @@
 [<<< Previous](posts.md) | [Next >>>](users.md)
 
-## Adding Pages
+# Adding Pages
 
 Typically, you'll want to add a few static pages, such as a course description page or a syllabus page. To add new pages to the site, follow these steps:
 

@@ -1,6 +1,6 @@
 [<<< Previous](pages.md)
 
-### Adding Users
+# Adding Users
 
 For a course blog, you will need to add your students as users before they can access the dashboard to create new posts.
 

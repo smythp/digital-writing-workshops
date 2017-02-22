@@ -1,8 +1,8 @@
 [<<< Previous](qwriting.md) | [Next >>>](posts.md)
 
-## WordPress fundamentals
+# WordPress Fundamentals
 
-### Logging In
+## Logging In
 
 Your WordPress site on QWriting has a public-facing section and a private section that allows you to determine the site's contents, look, and behavior. The URL for the public-facing site looks like this:
 
@@ -18,7 +18,7 @@ If you're not logged in when you go to this URL (or if you click the `login` but
 
 Enter your QWriting username and password to log in.
 
-### The Dashboard
+## The Dashboard
 
 The private portion of your site is called the **dashboard**.
 
@@ -26,7 +26,7 @@ The private portion of your site is called the **dashboard**.
 
 The dashboard allows you to create and edit posts, add users, change the theme, and otherwise control the behavior of your site. The major control categories appear in the gray bar on the left. The gray bar on the top allows you to choose which WordPress site you want to work with and also has a shortcut that allows you to immediately jump to creating a post.
 
-### Posts and Pages
+## Posts and Pages
 
 WordPress uses two basic types of content: **pages** and **posts**.
 
@@ -34,7 +34,7 @@ WordPress uses two basic types of content: **pages** and **posts**.
 
 **Posts** are content designed to be ordered chronologically. Every time a new post is created, old posts will be pushed down on the blog. Student writing will usually be created as posts and not pages.
 
-### Users
+## Users
 
 WordPress sites have a `Users` section that allows you to decide who has access to the blog and who has permission to read, create, and edit posts. By default, WordPress includes a number of roles. From greatest number of permissions to least, they are:
 
