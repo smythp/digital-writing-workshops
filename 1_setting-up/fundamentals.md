@@ -36,7 +36,7 @@ WordPress uses two basic types of content: **pages** and **posts**.
 
 ## Users
 
-WordPress sites have a `Users` section that allows you to decide who has access to the blog and who has permission to read, create, and edit posts. By default, WordPress includes a number of roles. From greatest number of permissions to least, they are:
+WordPress sites have a `Users` section that allows you to decide who has access to the blog and who has permission to read, create, and edit posts. The default roles are:
 
 - Administrator
 - Editor
@@ -52,12 +52,8 @@ Authors can create and publish their own posts on the site.
 
 Editors can do everything authors can do, but in addition can edit and publish other people's posts.
 
-Administrators can add new users and change site settings, as well as do anything an editor can. As a teacher, you will likely be an administrator on your site. You can also make particularly trusted students or assistant into additional administrators.
+Administrators can add new users and change site settings, as well as do anything an editor can. As a teacher, you will likely be an administrator on your site. You can also make particularly trusted students or assistants into additional administrators.
 
-In some courses, it makes sense to make all students into authors and allow them to make and publish posts. In other cases, you will want to review posts before they are published—in these circumstances, you would make your students as contributors and then manually approve their submissions in the dashboard.
-
-
-
-
+In some courses, it makes sense to make all students into authors and allow them to make and publish posts. In other cases, you will want to review posts before they are published—in these circumstances, you would make your students contributors and then manually approve their submissions in the dashboard.
 
 [<<< Previous](qwriting.md) | [Next >>>](posts.md)
