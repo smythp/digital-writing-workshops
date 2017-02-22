@@ -7,7 +7,7 @@ WordPress is software that runs on a server—a remote computer that is connecte
 There are two main ways to use WordPress: via self-hosting or through wordpress.net. Wordpress.net is a site that you sign up for, like Facebook or Twitter, and it allows you to manage your blog without worrying about hosting. You have to pay a fee for certain kinds of use, and your ability to add new functionality to the site is limited. The self-hosted version of WordPress is free to use, but you need to pay for a server to host it. It's less restricted, and you can do anything you want with the site, including adding plugins that provide additional functionality.
 
 
-## Why use WordPress?
+## Why Use WordPress?
 
 There are a number of reasons to incorporate a WordPress site into your course pedagogy.
 
