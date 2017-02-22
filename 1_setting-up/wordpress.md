@@ -12,9 +12,9 @@ There are two main ways to use WordPress: via self-hosting or through wordpress.
 There are a number of reasons to incorporate a WordPress site into your course pedagogy:
 
 1. A course blog is a convenient location for low-stakes writing assignments, and allows students to deploy rich media (such as photos and video) in support of their arguments.
-4. WordPress has a user interface that many students (and professors) consider to be more intuitive than proprietary LMS such as Blackboard.
-5. WordPress provides an accessible location for sharing course information, syllabae, readings, rubrucs, and assignments.
-6. Using WordPress, you have more control over the look, feel, and layout of your WordPress site than you do over an LMS such as Blackboard.
+4. WordPress has a user interface that many students (and professors) consider to be more intuitive than a proprietary LMS such as Blackboard.
+5. WordPress provides an accessible location for sharing course information, syllabuses, readings, rubrics, and assignments.
+6. Using WordPress, you have more control over the look, feel, and layout of your WordPress site than you do over a proprietary LMS such as Blackboard.
 3. WordPress is a standard tool in industry and the academy. Knowing WordPress is a useful job skill, and knowledge of WordPress allows students to create sites for their own blogs, projects, portfolios, and organizations.
 2. WordPress allows for tagging and categorization of posts, which can uncover connections between the writing and observations of individual students.
 5. WordPress plugins can enable unusual pedagogical approaches, including immersive writing experiences such as [Ivanhoe](http://ivanhoe.scholarslab.org/).
