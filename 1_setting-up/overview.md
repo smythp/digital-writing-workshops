@@ -7,5 +7,5 @@ This workshop introduces participants to the technology-assisted classroom, an e
 [What is WordPress?](wordpress.md)  
 [Introducing QWriting](qwriting.md)  
 [WordPress fundamentals](fundamentals.md)  
-[Setting up a course blog]()  
+[Creating a post](posts.md)  
 [Other tools overview]()  
