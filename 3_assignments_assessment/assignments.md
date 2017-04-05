@@ -15,7 +15,7 @@
 <li><a href="#orgheadline6">4.1. How to embed media in WordPress</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline8">5. portfolios</a></li>
+<li><a href="#orgheadline8">5. Rubrics for Non-Traditional Assignments</a></li>
 <li><a href="#orgheadline9">6. Resources</a></li>
 </ul>
 </div>
@@ -73,12 +73,16 @@ You can use the below URL to test the embedding functionality:
 
 <https://soundcloud.com/iamalik/zadie-smith-lecture-why-write-creativity-and-refusal/sets>
 
-rubrics for non-traditional assignments
+# Rubrics for Non-Traditional Assignments<a id="orgheadline8"></a>
 
-privacy and ethical considerations of public-facing classroom
+In many ways, rubrics for non-traditional assignments are similar to those for standard research papers—indeed, you can use the same categories of organization, technical execution, adherence to topic, quality of research, consideration of audience, and conceptual understanding. You may want to rewrite rubrics to be more specific to the details of execution on different platforms—for example, if your assignment is a photo journal, you might include an item for the smooth integration of photos with text or effective use of captioning.
 
-# portfolios<a id="orgheadline8"></a>
+In creating (or choosing) a rubric for a non-traditional assignment, consider what you want students to get out of the experience. In your rubric, refer to earlier scaffolding assignments to make clear the relationship between this assignment and the work students have done previously. Finally, consider providing examples of excellent work, either by external creators or from prior classes.
 
 # Resources<a id="orgheadline9"></a>
 
 [How to design a digital media assignment](https://ltlatnd.wordpress.com/2012/11/05/how-to-design-a-digital-media-project/)
+[Purpose, Grading, and “Non-traditional” Assignments](http://www.teachingushistory.co/2016/03/purpose-grading-and-non-traditional-assignments.html)
+[ACERT Event Capsule – Web scrawlers: Annotating digital objects with students](http://acert.hunter.cuny.edu/blog/web-scrawlers/2016/11/07/)
+[ACERT - Digital Pedagogy Prizes](http://acert.hunter.cuny.edu/blog/digped-prizes/2016/05/23/)
+[Transforming a Research Paper Assignment into a Student-Generated Class eBook](http://ctl.columbia.edu/announcements/in-conversation-transforming-a-research-paper-assignment-into-a-student-generated-class-ebook/)

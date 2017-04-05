@@ -1,4 +1,3 @@
-
 # Digital Writing Workshop Series, Spring 2017
 
 Writing at Queens program, Queens Hall 330A
