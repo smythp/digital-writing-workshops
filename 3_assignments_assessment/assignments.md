@@ -81,8 +81,8 @@ In creating (or choosing) a rubric for a non-traditional assignment, consider wh
 
 # Resources<a id="orgheadline9"></a>
 
-[How to design a digital media assignment](https://ltlatnd.wordpress.com/2012/11/05/how-to-design-a-digital-media-project/)
-[Purpose, Grading, and “Non-traditional” Assignments](http://www.teachingushistory.co/2016/03/purpose-grading-and-non-traditional-assignments.html)
-[ACERT Event Capsule – Web scrawlers: Annotating digital objects with students](http://acert.hunter.cuny.edu/blog/web-scrawlers/2016/11/07/)
-[ACERT - Digital Pedagogy Prizes](http://acert.hunter.cuny.edu/blog/digped-prizes/2016/05/23/)
-[Transforming a Research Paper Assignment into a Student-Generated Class eBook](http://ctl.columbia.edu/announcements/in-conversation-transforming-a-research-paper-assignment-into-a-student-generated-class-ebook/)
+[How to design a digital media assignment](https://ltlatnd.wordpress.com/2012/11/05/how-to-design-a-digital-media-project/)  
+[Purpose, Grading, and “Non-traditional” Assignments](http://www.teachingushistory.co/2016/03/purpose-grading-and-non-traditional-assignments.html)  
+[ACERT Event Capsule – Web scrawlers: Annotating digital objects with students](http://acert.hunter.cuny.edu/blog/web-scrawlers/2016/11/07/)  
+[ACERT - Digital Pedagogy Prizes](http://acert.hunter.cuny.edu/blog/digped-prizes/2016/05/23/)  
+[Transforming a Research Paper Assignment into a Student-Generated Class eBook](http://ctl.columbia.edu/announcements/in-conversation-transforming-a-research-paper-assignment-into-a-student-generated-class-ebook/)  
