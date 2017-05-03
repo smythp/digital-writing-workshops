@@ -1,3 +1,6 @@
+
+[<<< Previous](considerations.md) | [Next >>>](information.md)
+
 # Mitigations
 
 There are a number of ways to mitigate the above concerns. Depending on your students and your circumstances, you may choose any or all of these for your course blog or other public-facing writing project:
@@ -21,3 +24,5 @@ If a student does not want their posts to be public, they can choose to put a pa
 ## Keep Up-To-Date
 
 If using your own self-hosted blog instead of a platform such as Qwriting, make sure to keep the installation up-to-date to prevent spam, hacking, and loss of functionality.
+
+[<<< Previous](considerations.md) | [Next >>>](information.md)
