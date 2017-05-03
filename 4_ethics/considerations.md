@@ -1,3 +1,5 @@
+[<<< Previous](overview.md) | [Next >>>](mitigations.md)
+
 # Considerations
 
 ## "Right to Be Forgotten"
@@ -19,3 +21,6 @@ There is a kind of dysfunctional "background radiation" that comes with operatin
 ## Legal Issues
 
 FERPA (the Family Educational Rights and Privacy Act) is a law that protects the privacy of students. Though interpretations of FERPA on the issue of public writing appear to vary, you should, at minimum, offer a way for students to easily opt out of your blog or other public-facing writing project. Other local or federal laws may also apply.
+
+
+[<<< Previous](overview.md) | [Next >>>](mitigations.md)
